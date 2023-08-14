@@ -12,7 +12,6 @@ Welcome to my Personal Portfolio Website project! This website showcases my skil
 - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
-- [License](#license)
 - [Contact](#contact)
 
 ## Demo
