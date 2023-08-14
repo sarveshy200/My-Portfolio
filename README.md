@@ -38,7 +38,7 @@ You can check out the live demo of the website [here](https://your-portfolio-url
 1. Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/sarveshy200/My-Portfolio.git
    ```
 
 2. Navigate to the project directory:
