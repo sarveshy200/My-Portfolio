@@ -1,6 +1,6 @@
 # Portfolio Project: Personal Website
 
-![Portfolio Screenshot](screenshot.png)
+![screencapture-127-0-0-1-5500-index-html-2023-08-14-15_56_06](https://github.com/sarveshy200/My-Portfolio/assets/105293807/9f513fe8-fccf-4e95-ba12-3e975a31044f)
 
 Welcome to my Personal Portfolio Website project! This website showcases my skills, projects, and provides a glimpse into my journey as a developer. This project is built using HTML, CSS, and JavaScript to create an interactive and visually appealing online portfolio.
 
@@ -17,7 +17,7 @@ Welcome to my Personal Portfolio Website project! This website showcases my skil
 
 ## Demo
 
-You can check out the live demo of the website [here](https://your-portfolio-url.com).
+You can check out the live demo of the website [here](https://your-portfolio-url.co).
 
 ## Features
 
